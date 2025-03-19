@@ -1,0 +1,11 @@
+# depslib dependency file v1.0
+1584205420 source:c:\users\reyes\documents\progra\programacion-1-tareas\controlcalculadora\main.cpp
+	<iostream>
+
+1742402717 source:c:\users\reyes\documents\progra\programacion-1-tareas\controlcalculadora\src\calculadora.cpp
+	"Calculadora.h"
+	"Calculadora.h"
+
+1742402509 c:\users\reyes\documents\progra\programacion-1-tareas\controlcalculadora\include\calculadora.h
+	<iostream>
+
