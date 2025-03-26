@@ -1,0 +1,8 @@
+# depslib dependency file v1.0
+1742949828 source:c:\users\reyes\documents\progra\programacion-1-tareas\votoscandidatos\eleccionescandidatos\main.cpp
+	"elecciones.h"
+
+1742949714 c:\users\reyes\documents\progra\programacion-1-tareas\votoscandidatos\eleccionescandidatos\include\elecciones.h
+	<iostream>
+	<string>
+
